@@ -1,0 +1,81 @@
+#header{
+    background-color: blue;
+    text-align: center;
+    color: aliceblue;
+    border: 3px blue;
+    width: 100%; 
+    position: sticky;} 
+ 
+.nav{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;} 
+
+ul li{
+    display: inline-block;
+    padding: 1px;} 
+ 
+
+
+#about{
+    align-items: center;
+    display:flex ;} 
+
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: antiquewhite;}
+
+#About{
+    text-align: center;} 
+
+#main content{
+    text-align: center;} 
+
+table{
+    align-items: center;} 
+
+#Project{
+    text-align: center;
+    align-content: center;}
+
+#skill{
+    text-align: center;
+    justify-content: center;
+    display: flex;} 
+
+#Contact{
+    text-align: center;
+    justify-content: center;
+    display: flex;} 
+
+#bg{
+    justify-content: center;
+    color: blue;}  
+
+table,th,td {border: 2px solid blue; } 
+img{border-radius: 50%; } 
+
+input,textarea{ border: 2px solid blue;} 
+
+.button{background-color: blue;
+    border: 2px blue;
+    color:white;
+   text-decoration: none;}  
+
+.row1{background-color: blue;} 
+
+
+.div{ border: 2px solid  blue;} 
+
+.marquee{color: blue;}  
+
+
+
+
+
+    
+
+
+
