@@ -1,2 +1,2 @@
-# Portfolio-2 
+# Portfolio - lab 2
 portfolio using html and css 
